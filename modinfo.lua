@@ -1,5 +1,5 @@
 name = "Hello world"
-description = "Permet de te faire bander quand tu joues"
+description = "Permet de te faire rire quand tu joues"
 author = "Ondy"
 version = "0.0.1"
 forumthread = "/"
